@@ -1,0 +1,13 @@
+{
+  "name": "dynamodb_data_modeling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pacificsun/dynamodb_data_modeling.git",
+  "author": "Suraj Thapa <stsurajst@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.649.0",
+    "dayjs": "^1.8.23",
+    "uuid": "^7.0.2"
+  }
+}
